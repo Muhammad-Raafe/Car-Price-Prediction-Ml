@@ -60,11 +60,6 @@ The model was trained using the training dataset and evaluated on unseen testing
 The model performance was evaluated using:
 
 - R² Score
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-
-These metrics help evaluate the prediction accuracy and overall model performance.
 
 ---
 
